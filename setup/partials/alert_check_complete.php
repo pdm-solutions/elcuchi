@@ -3,7 +3,7 @@
         <div class="flex-grow-1 pl-2 pr-sm-3">
             <h4>System requirements check complete</h4>
             <p class="mb-0">
-                Your system meets the minimum requirements.
+                Your system mees the minimum requirements.
             </p>
         </div>
         <div>
